@@ -22,7 +22,7 @@ module.exports = {
   },
   plugins: [
     `gatsby-plugin-image`,
-    `gatsby-plugin-static-cms`,
+    `gatsby-plugin-decap-cms`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {

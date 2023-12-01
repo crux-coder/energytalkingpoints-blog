@@ -1,4 +1,4 @@
-import CMS from '@staticcms/core'
+import CMS from 'decap-cms-app'
 
 CMS.registerEventListener({
     name: 'preSave',
