@@ -23,6 +23,7 @@
     "@fontsource/merriweather": "^4.5.14",
     "@fontsource/montserrat": "^4.5.14",
     "decap-cms-app": "^3.0.12",
+    "flexsearch": "^0.7.31",
     "gatsby": "^5.7.0",
     "gatsby-plugin-decap-cms": "^4.0.3",
     "gatsby-plugin-feed": "^5.7.0",
